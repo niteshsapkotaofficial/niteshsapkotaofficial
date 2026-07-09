@@ -1,6 +1,7 @@
 ## Hi there 👋
-<h6>Visitor count since 09 July 2026</h6>  
-![](https://komarev.com/ghpvc/?username=niteshsapkotaofficial)
+
+![](https://komarev.com/ghpvc/?username=niteshsapkotaofficial)  
+Visitor count since 09 July 2026
 <!--
 **niteshsapkotaofficial/niteshsapkotaofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
